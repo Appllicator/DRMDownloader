@@ -19,3 +19,6 @@ DRMDownloader  — как мастер-ключ для вашего цифров
 1. Установите зависимости:
    ```bash
    pip install -r requirements.txt
+2. Запустите скрипт:
+    ```bash
+    python main.py
