@@ -1,6 +1,6 @@
 
 #### b) **Файл `requirements.txt`**
-Создайте файл `requirements.txt`, чтобы другие пользователи могли легко установить зависимости:
+Инсталлируйте файл `requirements.txt`, чтобы установить зависимости:
 ```plaintext
 PyQt5
 qrcode[pil]
